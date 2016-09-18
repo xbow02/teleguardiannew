@@ -23,7 +23,7 @@
     <meta http-equiv="Content-Language" content="en">
     <meta name="viewport" content="width=device-width">
     
-    <title>AntiSpamCreatorBot/setwlc.lua at Supergroups · TGlandTeam/AntiSpamCreatorBot</title>
+    <title>AntiSpamCreatorBot/lockfsh.lua at Supergroups · TGlandTeam/AntiSpamCreatorBot</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -43,10 +43,10 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/MjEzNjA4MDc6MmE1YWMzODMwYWJjM2QxMWZkYzFiY2Y1MmQwZmNlZmI6ZTc0ZDhjZjliZTI2YzllZjU3MGUwMjNhZjJjYmZjYTk2YWNmOTQ4YWFmNzEzNmZkMmY2ODg3NmFiYmVhMDExMQ==--185a1ddf3ff8027d542560b031b8948ec40d3c32">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/MjEzNjA4MDc6MmE1YWMzODMwYWJjM2QxMWZkYzFiY2Y1MmQwZmNlZmI6ZGE2ZmM0ZjNjYzJiOTM3ZjQ0NzA4NzM1MGQ3YTU4MTE3OGI3ZDUxNjBmZTMyZWRmMTBiNWRjZGY2MGFlNzA2OQ==--b1c15db9f331351770e1ede888350294d24b320c">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
-    <meta name="request-id" content="251B4D5A:1582A:380EC0B:57DE7834" data-pjax-transient>
+    <meta name="request-id" content="251B4D5A:1582A:38123A5:57DE7870" data-pjax-transient>
 
     <meta name="msapplication-TileImage" content="/windows-tile.png">
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -56,7 +56,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="251B4D5A:1582A:380EC0B:57DE7834" name="octolytics-dimension-request_id" /><meta content="21360807" name="octolytics-actor-id" /><meta content="xbow02" name="octolytics-actor-login" /><meta content="a112d809611d5b998218ca6f759f79beb367acdd6a030f559151e610d6a4eb60" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="251B4D5A:1582A:38123A5:57DE7870" name="octolytics-dimension-request_id" /><meta content="21360807" name="octolytics-actor-id" /><meta content="xbow02" name="octolytics-actor-login" /><meta content="a112d809611d5b998218ca6f759f79beb367acdd6a030f559151e610d6a4eb60" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -69,7 +69,7 @@
     <meta name="user-login" content="xbow02">
 
         <meta name="expected-hostname" content="github.com">
-      <meta name="js-proxy-site-detection-payload" content="YjY1NzFhYzkyNzJmMzJkZGEzMDMzNTgyOTg1ZTcxYWU0MjRjMzkzZDcyNjU3NzNhOTI4NmZhZmI4MmQ1ZTQxOXx7InJlbW90ZV9hZGRyZXNzIjoiMzcuMjcuNzcuOTAiLCJyZXF1ZXN0X2lkIjoiMjUxQjRENUE6MTU4MkE6MzgwRUMwQjo1N0RFNzgzNCIsInRpbWVzdGFtcCI6MTQ3NDE5NzU1Nn0=">
+      <meta name="js-proxy-site-detection-payload" content="NmQwMWY5ODhkYzU3ZTg0ZDM4MmY4OGVmOWZiMGU4ZmRhZTVkZTE2ODFlZmVlOTUwNmYzZmFiOTFjYTc1MWYxOHx7InJlbW90ZV9hZGRyZXNzIjoiMzcuMjcuNzcuOTAiLCJyZXF1ZXN0X2lkIjoiMjUxQjRENUE6MTU4MkE6MzgxMjNBNTo1N0RFNzg3MCIsInRpbWVzdGFtcCI6MTQ3NDE5NzYxN30=">
 
 
       <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
@@ -89,7 +89,7 @@
   <link href="https://github.com/TGlandTeam/AntiSpamCreatorBot/commits/Supergroups.atom" rel="alternate" title="Recent Commits to AntiSpamCreatorBot:Supergroups" type="application/atom+xml">
 
 
-      <link rel="canonical" href="https://github.com/TGlandTeam/AntiSpamCreatorBot/blob/Supergroups/plugins/setwlc.lua" data-pjax-transient>
+      <link rel="canonical" href="https://github.com/TGlandTeam/AntiSpamCreatorBot/blob/Supergroups/plugins/lockfsh.lua" data-pjax-transient>
   </head>
 
 
@@ -226,7 +226,7 @@
           Settings
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="V0OWtwWJ1yAHv8PLDPmS/iw7tbzoRxB8HnrRIj7cqihGwurOEIoZeyQNCha+PbE+G9mbRiPsqyIG7/Q5HIJSOg==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="l0fjWPtrHe5BZ+MaudXe60uvMHQx1ICAhJI5u2xzPWLQCAxBASDhPXB/XJbSCHvnAZl7VxdUTC3P7cxEjVxqhQ==" /></div>
           <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -262,7 +262,7 @@
 <ul class="pagehead-actions">
 
   <li>
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="2NrbCCXzCp30MP2yHOAbJTSAWkMl7A/5SnBRaPWxBBSF8LQXzHjP5XX/7WjiH00NTKFY9wtgUqxdHvGoH3+w3Q==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="65554481" />
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VIjQ/s0PQMoVnA4Z/Db8BHIul25mq8fUyCuimPsow4ycrrZdDtNVbFM/EY9ekuyouHKKiAQYouHwlS5Z8XGEBg==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="65554481" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/TGlandTeam/AntiSpamCreatorBot/subscription"
@@ -339,7 +339,7 @@
     
   <div class="js-toggler-container js-social-container starring-container on">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TGlandTeam/AntiSpamCreatorBot/unstar" class="starred" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GseFat3gH3ZmuRp5eeG4FIeAY8ToMC8ngLaAu7A0mOWwrnnYEl50wbzspGKUiLB3jbOMJVjKrnBL90wZvoz6Mw==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TGlandTeam/AntiSpamCreatorBot/unstar" class="starred" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8zZGwM0g/IJFiTflI7hivjsBEMtTGnALMEi0EAmDa/MPMnJgzUGWDDt95epCggucsWROVV4qCpaP31okSALUKw==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar TGlandTeam/AntiSpamCreatorBot"
@@ -352,7 +352,7 @@
           2
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TGlandTeam/AntiSpamCreatorBot/star" class="unstarred" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="E++wclBOa4ILSwRylNUIkIbcludY7pMolsdPdvR2kQGSyvcAme1e3bjlUuayaFoIOik0Rex96xhUvFi7FNZ2VA==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TGlandTeam/AntiSpamCreatorBot/star" class="unstarred" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="5X0V7lMCPxRFdgK0BdJ4HIgWEGo3ZGZTiLvwsCPPjsZYAiqTG236GO301EeDFZ4AVWZrQGtiwiWBm5vHhoXJNg==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star TGlandTeam/AntiSpamCreatorBot"
@@ -369,7 +369,7 @@
   </li>
 
   <li>
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TGlandTeam/AntiSpamCreatorBot/fork" class="btn-with-count" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ggNV7xErJjgeMDe8/Vltw9slXNGvlLK+L8mMDvz+xZxZDORlJdXnyMxDgF1Cw8wILyYYe5avMl6sZho/Q/cugA==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TGlandTeam/AntiSpamCreatorBot/fork" class="btn-with-count" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Eevo5Ro0IcAlv7Ox3k3M0fX/FkhhbQIKJFNx+6Xe0J6iH6cuJRMEbaceFg4kORHDsb7OXII337kVVOLnHWqIwg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -458,9 +458,9 @@
 
     
 
-<a href="/TGlandTeam/AntiSpamCreatorBot/blob/13b19db083f8f994aead9ccf24be9836263be559/plugins/setwlc.lua" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/TGlandTeam/AntiSpamCreatorBot/blob/13b19db083f8f994aead9ccf24be9836263be559/plugins/lockfsh.lua" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:1850c9382e0259aa699745aa1c449cdb -->
+<!-- blob contrib key: blob_contributors:v21:142c712350e29b1879bb3dc38ef3d2d5 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -502,7 +502,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/TGlandTeam/AntiSpamCreatorBot/blob/Supergroups/plugins/setwlc.lua"
+               href="/TGlandTeam/AntiSpamCreatorBot/blob/Supergroups/plugins/lockfsh.lua"
                data-name="Supergroups"
                data-skip-pjax="true"
                rel="nofollow">
@@ -539,11 +539,11 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/TGlandTeam/AntiSpamCreatorBot"><span>AntiSpamCreatorBot</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/TGlandTeam/AntiSpamCreatorBot/tree/Supergroups/plugins"><span>plugins</span></a></span><span class="separator">/</span><strong class="final-path">setwlc.lua</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/TGlandTeam/AntiSpamCreatorBot"><span>AntiSpamCreatorBot</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/TGlandTeam/AntiSpamCreatorBot/tree/Supergroups/plugins"><span>plugins</span></a></span><span class="separator">/</span><strong class="final-path">lockfsh.lua</strong>
   </div>
 </div>
 
-<include-fragment class="commit-tease" src="/TGlandTeam/AntiSpamCreatorBot/contributors/Supergroups/plugins/setwlc.lua">
+<include-fragment class="commit-tease" src="/TGlandTeam/AntiSpamCreatorBot/contributors/Supergroups/plugins/lockfsh.lua">
   <div>
     Fetching contributors&hellip;
   </div>
@@ -558,9 +558,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/TGlandTeam/AntiSpamCreatorBot/raw/Supergroups/plugins/setwlc.lua" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/TGlandTeam/AntiSpamCreatorBot/blame/Supergroups/plugins/setwlc.lua" class="btn btn-sm js-update-url-with-hash BtnGroup-item">Blame</a>
-      <a href="/TGlandTeam/AntiSpamCreatorBot/commits/Supergroups/plugins/setwlc.lua" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/TGlandTeam/AntiSpamCreatorBot/raw/Supergroups/plugins/lockfsh.lua" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/TGlandTeam/AntiSpamCreatorBot/blame/Supergroups/plugins/lockfsh.lua" class="btn btn-sm js-update-url-with-hash BtnGroup-item">Blame</a>
+      <a href="/TGlandTeam/AntiSpamCreatorBot/commits/Supergroups/plugins/lockfsh.lua" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -570,12 +570,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"></path></svg>
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TGlandTeam/AntiSpamCreatorBot/edit/Supergroups/plugins/setwlc.lua" class="inline-form js-update-url-with-hash" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8XZGNhRZM6Fs4gHTBx0rXVWqk+o8A+VMuTXv5kZcb5ttedqTI7C4Fz5c1qMaBJFaLSDiy3qzzLH+40J9l1RSGg==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TGlandTeam/AntiSpamCreatorBot/edit/Supergroups/plugins/lockfsh.lua" class="inline-form js-update-url-with-hash" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jOKw2OxKTLAR6WnnNv88ScVYjv/656Yc5lSnkjRPZvU8cUpO/5WGpQ7QadLZknav9pKXMfDZWd8ejN5dCHNwmw==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
           </button>
-</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TGlandTeam/AntiSpamCreatorBot/delete/Supergroups/plugins/setwlc.lua" class="inline-form" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="klN3q5qDk5NESHQF8egKvtQkZXBgU/j7CYXoXttlZvG6RyvozTUtNQ9o8+LsaH3OqACjmQxFA9S5rqXb6VZOAA==" /></div>
+</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/TGlandTeam/AntiSpamCreatorBot/delete/Supergroups/plugins/lockfsh.lua" class="inline-form" data-form-nonce="4ac85f17f0e9c358ca5929917b8686c1c1a21507" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="tn6GsxRp7ACWOCA6gVOH9B9c+6IlaFp6CAqmfIyQwuT1jdq1tSJ24Yuxlc+fYXXCaovIXalI6jbPcyCZbSZDQQ==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
@@ -583,9 +583,9 @@
 </form>  </div>
 
   <div class="file-info">
-      52 lines (43 sloc)
+      45 lines (41 sloc)
       <span class="file-info-divider"></span>
-    1.98 KB
+    1.01 KB
   </div>
 </div>
 
@@ -595,219 +595,181 @@
       <table class="highlight tab-size js-file-line-container" data-tab-size="8">
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
-        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">do</span></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> <span class="pl-k">function</span> <span class="pl-en">run</span>(<span class="pl-smi">msg, matches</span>)</td>
       </tr>
       <tr>
         <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
-        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> <span class="pl-k">function</span> <span class="pl-en">run</span>(<span class="pl-smi">msg, matches, callback, extra</span>)</td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">if</span> <span class="pl-c1">is_momod</span>(msg) <span class="pl-k">then</span></td>
       </tr>
       <tr>
         <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
-        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> data <span class="pl-k">=</span> <span class="pl-c1">load_data</span>(_config.<span class="pl-smi">moderation</span>.<span class="pl-smi">data</span>)</td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span></td>
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> rules <span class="pl-k">=</span> data[<span class="pl-c1">tostring</span>(msg.<span class="pl-smi">to</span>.<span class="pl-smi">id</span>)][<span class="pl-s"><span class="pl-pds">&#39;</span>rules<span class="pl-pds">&#39;</span></span>]</td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">end</span></td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> about <span class="pl-k">=</span> data[<span class="pl-c1">tostring</span>(msg.<span class="pl-smi">to</span>.<span class="pl-smi">id</span>)][<span class="pl-s"><span class="pl-pds">&#39;</span>description<span class="pl-pds">&#39;</span></span>]</td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">local</span> data <span class="pl-k">=</span> <span class="pl-c1">load_data</span>(_config.<span class="pl-smi">moderation</span>.<span class="pl-smi">data</span>)</td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> hash <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&#39;</span>group:<span class="pl-pds">&#39;</span></span><span class="pl-k">..</span>msg.<span class="pl-smi">to</span>.<span class="pl-smi">id</span></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">if</span> data[<span class="pl-c1">tostring</span>(msg.<span class="pl-smi">to</span>.<span class="pl-smi">id</span>)] <span class="pl-k">then</span></td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> group_welcome <span class="pl-k">=</span> redis:<span class="pl-c1">hget</span>(hash,<span class="pl-s"><span class="pl-pds">&#39;</span>welcome<span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">if</span> data[<span class="pl-c1">tostring</span>(msg.<span class="pl-smi">to</span>.<span class="pl-smi">id</span>)][<span class="pl-s"><span class="pl-pds">&#39;</span>settings<span class="pl-pds">&#39;</span></span>] <span class="pl-k">then</span></td>
       </tr>
       <tr>
         <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> matches[<span class="pl-c1">1</span>] <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&#39;</span>delwlc<span class="pl-pds">&#39;</span></span> <span class="pl-k">and</span> <span class="pl-k">not</span> matches[<span class="pl-c1">2</span>] <span class="pl-k">and</span> <span class="pl-c1">is_owner</span>(msg) <span class="pl-k">then</span> </td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">if</span> data[<span class="pl-c1">tostring</span>(msg.<span class="pl-smi">to</span>.<span class="pl-smi">id</span>)][<span class="pl-s"><span class="pl-pds">&#39;</span>settings<span class="pl-pds">&#39;</span></span>][<span class="pl-s"><span class="pl-pds">&#39;</span>fosh<span class="pl-pds">&#39;</span></span>] <span class="pl-k">then</span></td>
       </tr>
       <tr>
         <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">    </td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">                lock_fosh <span class="pl-k">=</span> data[<span class="pl-c1">tostring</span>(msg.<span class="pl-smi">to</span>.<span class="pl-smi">id</span>)][<span class="pl-s"><span class="pl-pds">&#39;</span>settings<span class="pl-pds">&#39;</span></span>][<span class="pl-s"><span class="pl-pds">&#39;</span>fosh<span class="pl-pds">&#39;</span></span>]</td>
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">   redis:<span class="pl-c1">hdel</span>(hash,<span class="pl-s"><span class="pl-pds">&#39;</span>welcome<span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">end</span></td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-s"><span class="pl-pds">&#39;</span>متن خوش آمد گویی پاک شد 🗑<span class="pl-pds">&#39;</span></span></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">end</span></td>
       </tr>
       <tr>
         <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">end</span></td>
       </tr>
       <tr>
         <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">local</span> chat <span class="pl-k">=</span> <span class="pl-c1">get_receiver</span>(msg)</td>
       </tr>
       <tr>
         <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> url , res <span class="pl-k">=</span> http.<span class="pl-c1">request</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>http://api.gpmod.ir/time/<span class="pl-pds">&#39;</span></span>)</td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">local</span> user <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>user#id<span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>msg.<span class="pl-smi">from</span>.<span class="pl-smi">id</span></td>
       </tr>
       <tr>
         <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> res <span class="pl-k">~=</span> <span class="pl-c1">200</span> <span class="pl-k">then</span> <span class="pl-k">return</span> <span class="pl-s"><span class="pl-pds">&quot;</span>No connection<span class="pl-pds">&quot;</span></span> <span class="pl-k">end</span></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">if</span> lock_fosh <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&quot;</span>yes<span class="pl-pds">&quot;</span></span> <span class="pl-k">then</span></td>
       </tr>
       <tr>
         <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-k">local</span> jdat <span class="pl-k">=</span> json:<span class="pl-c1">decode</span>(url)</td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">       <span class="pl-c1">delete_msg</span>(msg.<span class="pl-smi">id</span>, ok_cb, <span class="pl-c1">true</span>)</td>
       </tr>
       <tr>
         <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
-        <td id="LC17" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">end</span></td>
       </tr>
       <tr>
         <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
-        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> matches[<span class="pl-c1">1</span>] <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&#39;</span>setwlc<span class="pl-pds">&#39;</span></span> <span class="pl-k">and</span> <span class="pl-c1">is_owner</span>(msg) <span class="pl-k">then</span></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span></td>
       </tr>
       <tr>
         <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line">redis:<span class="pl-c1">hset</span>(hash,<span class="pl-s"><span class="pl-pds">&#39;</span>welcome<span class="pl-pds">&#39;</span></span>,matches[<span class="pl-c1">2</span>])</td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"> </td>
       </tr>
       <tr>
         <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
-        <td id="LC20" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span> <span class="pl-s"><span class="pl-pds">&#39;</span>متن خوش آمد گویی گروه تنظیم شد به : <span class="pl-cce">\n</span><span class="pl-pds">&#39;</span></span><span class="pl-k">..</span>matches[<span class="pl-c1">2</span>]</td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-k">return</span> {</td>
       </tr>
       <tr>
         <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">  patterns <span class="pl-k">=</span> {</td>
       </tr>
       <tr>
         <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>(ک*س)$<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> matches[<span class="pl-c1">1</span>] <span class="pl-k">==</span> <span class="pl-s"><span class="pl-pds">&#39;</span>chat_add_user_link<span class="pl-pds">&#39;</span></span> <span class="pl-k">and</span> msg.<span class="pl-smi">service</span> <span class="pl-k">then</span></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>کیر<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
-        <td id="LC24" class="blob-code blob-code-inner js-file-line">group_welcome <span class="pl-k">=</span> <span class="pl-c1">string.gsub</span>(group_welcome, <span class="pl-s"><span class="pl-pds">&#39;</span>{gpname}<span class="pl-pds">&#39;</span></span>, msg.<span class="pl-smi">to</span>.<span class="pl-smi">title</span>)</td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>کص<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
-        <td id="LC25" class="blob-code blob-code-inner js-file-line"> group_welcome <span class="pl-k">=</span> <span class="pl-c1">string.gsub</span>(group_welcome, <span class="pl-s"><span class="pl-pds">&#39;</span>{fatime}<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>(jdat.<span class="pl-smi">FAtime</span>)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>کــــــــــیر<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
-        <td id="LC26" class="blob-code blob-code-inner js-file-line">  group_welcome <span class="pl-k">=</span> <span class="pl-c1">string.gsub</span>(group_welcome, <span class="pl-s"><span class="pl-pds">&#39;</span>{entime}<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>(jdat.<span class="pl-smi">ENtime</span>)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>کــــــــــــــــــــــــــــــیر<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
-        <td id="LC27" class="blob-code blob-code-inner js-file-line">  group_welcome <span class="pl-k">=</span> <span class="pl-c1">string.gsub</span>(group_welcome, <span class="pl-s"><span class="pl-pds">&#39;</span>{fadate}<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>(jdat.<span class="pl-smi">FAdate</span>)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>کـیـــــــــــــــــــــــــــــــــــــــــــــــــــر<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
-        <td id="LC28" class="blob-code blob-code-inner js-file-line">  group_welcome <span class="pl-k">=</span> <span class="pl-c1">string.gsub</span>(group_welcome, <span class="pl-s"><span class="pl-pds">&#39;</span>{endate}<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>(jdat.<span class="pl-smi">ENdate</span>)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>ک×یر<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
-        <td id="LC29" class="blob-code blob-code-inner js-file-line">  group_welcome <span class="pl-k">=</span> <span class="pl-c1">string.gsub</span>(group_welcome, <span class="pl-s"><span class="pl-pds">&#39;</span>{rules}<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>(rules <span class="pl-k">or</span> <span class="pl-s"><span class="pl-pds">&#39;</span><span class="pl-pds">&#39;</span></span>)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>ک÷یر<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
-        <td id="LC30" class="blob-code blob-code-inner js-file-line">  group_welcome <span class="pl-k">=</span> <span class="pl-c1">string.gsub</span>(group_welcome, <span class="pl-s"><span class="pl-pds">&#39;</span>{about}<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>(about <span class="pl-k">or</span> <span class="pl-s"><span class="pl-pds">&#39;</span><span class="pl-pds">&#39;</span></span>)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>ک*ص<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
-        <td id="LC31" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>کــــــــــیرر<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
-        <td id="LC32" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">    <span class="pl-s"><span class="pl-pds">&quot;</span>kir<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
-        <td id="LC33" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>kos<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
-        <td id="LC34" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>گوساله<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
-        <td id="LC35" class="blob-code blob-code-inner js-file-line">group_welcome <span class="pl-k">=</span> <span class="pl-c1">string.gsub</span>(group_welcome, <span class="pl-s"><span class="pl-pds">&#39;</span>{نام گروه}<span class="pl-pds">&#39;</span></span>, msg.<span class="pl-smi">to</span>.<span class="pl-smi">title</span>)</td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>gosale<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
-        <td id="LC36" class="blob-code blob-code-inner js-file-line"> group_welcome <span class="pl-k">=</span> <span class="pl-c1">string.gsub</span>(group_welcome, <span class="pl-s"><span class="pl-pds">&#39;</span>{ساعت فارسی}<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>(jdat.<span class="pl-smi">FAtime</span>)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>gusale<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
-        <td id="LC37" class="blob-code blob-code-inner js-file-line">  group_welcome <span class="pl-k">=</span> <span class="pl-c1">string.gsub</span>(group_welcome, <span class="pl-s"><span class="pl-pds">&#39;</span>{ساعت انگلیسی}<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>(jdat.<span class="pl-smi">ENtime</span>)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>جنده<span class="pl-pds">&quot;</span></span>,  </td>
       </tr>
       <tr>
         <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
-        <td id="LC38" class="blob-code blob-code-inner js-file-line">  group_welcome <span class="pl-k">=</span> <span class="pl-c1">string.gsub</span>(group_welcome, <span class="pl-s"><span class="pl-pds">&#39;</span>{تاریخ فارسی}<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>(jdat.<span class="pl-smi">FAdate</span>)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>لز<span class="pl-pds">&quot;</span></span>,   </td>
       </tr>
       <tr>
         <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
-        <td id="LC39" class="blob-code blob-code-inner js-file-line">  group_welcome <span class="pl-k">=</span> <span class="pl-c1">string.gsub</span>(group_welcome, <span class="pl-s"><span class="pl-pds">&#39;</span>{تاریخ انگلیسی}<span class="pl-pds">&#39;</span></span>, <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span><span class="pl-k">..</span>(jdat.<span class="pl-smi">ENdate</span>)<span class="pl-k">..</span><span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>)</td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">	<span class="pl-s"><span class="pl-pds">&quot;</span>گی<span class="pl-pds">&quot;</span></span>,     </td>
       </tr>
       <tr>
         <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
-        <td id="LC40" class="blob-code blob-code-inner js-file-line">
-</td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">  },</td>
       </tr>
       <tr>
         <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
-        <td id="LC41" class="blob-code blob-code-inner js-file-line"> <span class="pl-k">end</span></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">  run <span class="pl-k">=</span> run</td>
       </tr>
       <tr>
         <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
-        <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class="pl-k">return</span> group_welcome</td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
       <tr>
         <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
-        <td id="LC43" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
       <tr>
         <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
-        <td id="LC44" class="blob-code blob-code-inner js-file-line"><span class="pl-k">return</span> {</td>
-      </tr>
-      <tr>
-        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
-        <td id="LC45" class="blob-code blob-code-inner js-file-line">  patterns <span class="pl-k">=</span> {</td>
-      </tr>
-      <tr>
-        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
-        <td id="LC46" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">&quot;</span>^[!#/](setwlc) +(.*)$<span class="pl-pds">&quot;</span></span>,</td>
-      </tr>
-      <tr>
-        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
-        <td id="LC47" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">&quot;</span>^[!#/](delwlc)$<span class="pl-pds">&quot;</span></span>,</td>
-      </tr>
-      <tr>
-        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
-        <td id="LC48" class="blob-code blob-code-inner js-file-line">  <span class="pl-s"><span class="pl-pds">&quot;</span>^!!tgservice (chat_add_user_link)$<span class="pl-pds">&quot;</span></span>,     </td>
-      </tr>
-      <tr>
-        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
-        <td id="LC49" class="blob-code blob-code-inner js-file-line">  },</td>
-      </tr>
-      <tr>
-        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
-        <td id="LC50" class="blob-code blob-code-inner js-file-line">  run <span class="pl-k">=</span> run</td>
-      </tr>
-      <tr>
-        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
-        <td id="LC51" class="blob-code blob-code-inner js-file-line">}</td>
-      </tr>
-      <tr>
-        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
-        <td id="LC52" class="blob-code blob-code-inner js-file-line"><span class="pl-k">end</span></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">
+</td>
       </tr>
 </table>
 
@@ -848,7 +810,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2016 <span title="0.14373s from github-fe146-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2016 <span title="0.09700s from github-fe158-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
